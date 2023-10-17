@@ -6,7 +6,7 @@ yarn init -y
 
 yarn add react@17.0.1 react-dom@17.0.1
 
-yarn add @babel/runtime
+yarn add @babel/runtime react-router-dom@5.2.0
 
 yarn add --dev @babel/core @babel/plugin-transform-runtime @babel/preset-env @babel/preset-react autoprefixer babel-loader css-loader html-webpack-plugin postcss postcss-loader style-loader webpack webpack-cli file-loader clean-webpack-plugin webpack-dev-server eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-react-refresh html-loader
 
